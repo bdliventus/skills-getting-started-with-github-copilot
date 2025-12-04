@@ -1,2 +1,7 @@
 fastapi
 uvicorn
+
+# Test and HTTP libraries
+pytest
+requests
+httpx
